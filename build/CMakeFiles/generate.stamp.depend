@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeCInformation.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeCXXInformation.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Platform/Windows.cmake
+F:/UniStuff/CMake/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake
+F:/UniStuff/gitTest/turnBasedPractice/CMakeLists.txt
+F:/UniStuff/gitTest/turnBasedPractice/build/CMakeFiles/3.17.2/CMakeCCompiler.cmake
+F:/UniStuff/gitTest/turnBasedPractice/build/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake
+F:/UniStuff/gitTest/turnBasedPractice/build/CMakeFiles/3.17.2/CMakeRCCompiler.cmake
+F:/UniStuff/gitTest/turnBasedPractice/build/CMakeFiles/3.17.2/CMakeSystem.cmake

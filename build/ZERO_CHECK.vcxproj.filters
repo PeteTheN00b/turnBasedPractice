@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\UniStuff\gitTest\turnBasedPractice\build\CMakeFiles\9de357d7d007e1cb3ca9813f12a33b1c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{062DD653-387F-3B93-9F3A-1E7EB06FF349}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
