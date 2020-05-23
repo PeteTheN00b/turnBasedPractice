@@ -169,9 +169,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="F:\UniStuff\gitTest\turnBasedPractice\build\source\mainloop.cpp.vcxproj">
-      <Project>{7BFC059A-2D7D-3977-9A49-35ADC7B5703A}</Project>
-      <Name>mainloop.cpp</Name>
+    <ProjectReference Include="F:\UniStuff\gitTest\turnBasedPractice\build\source\game.vcxproj">
+      <Project>{0976A25C-FBDC-3A6C-AD53-D38824B6A32D}</Project>
+      <Name>game</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

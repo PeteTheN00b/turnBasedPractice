@@ -1,3 +1,4 @@
-add_executable(mainloop.cpp
-character.cpp
+add_executable(game
+mainloop.cpp
+char.cpp
 )
